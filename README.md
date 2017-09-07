@@ -1,4 +1,4 @@
-# **README for Building XNU 16.7 (xnu-3789.70.16)**
+# **Guide Building XNU 16.7 (xnu-3789.70.16)**
 For Building XNU 16.7 from start to finish
 Requirements macOS 10.12.6 and Xcode 8.3.3
 
